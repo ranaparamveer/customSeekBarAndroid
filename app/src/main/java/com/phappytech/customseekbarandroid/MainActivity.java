@@ -6,6 +6,10 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.Toast;
 
+import com.phappytech.library.CustomSeekBar;
+import com.phappytech.library.ProgressSegment;
+import com.phappytech.library.SegmentClickedListener;
+
 import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {

@@ -1,4 +1,4 @@
-package com.phappytech.customseekbarandroid;
+package com.phappytech.library;
 
 public interface SegmentClickedListener {
 

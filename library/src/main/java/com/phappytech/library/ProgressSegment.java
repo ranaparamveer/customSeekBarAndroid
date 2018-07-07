@@ -1,4 +1,4 @@
-package com.phappytech.customseekbarandroid;
+package com.phappytech.library;
 
 import android.os.Parcel;
 import android.os.Parcelable;
