@@ -10,7 +10,7 @@ Setup
 If you are using the Gradle build system, simply add the following dependency in your build.gradle file:
 ```
 dependencies {
-    implementation 'com.github.ranaparamveer:customSeekbarAndroid:v1.0.0'
+    implementation 'com.github.ranaparamveer:customSeekbarAndroid:+'
 }
 ```
 And add : 
